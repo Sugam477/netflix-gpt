@@ -1,8 +1,9 @@
 #Netflixgpt
 - Create-react-app
 - Configure Tailwindcss
-
-
+- Header
+- Login Form 
+- Signup Form
 
 
 
